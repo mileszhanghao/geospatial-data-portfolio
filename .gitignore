@@ -1,0 +1,10 @@
+.env
+*.zip
+*.7z
+*.gpkg
+*.sqlite
+*.tif
+*.tiff
+data/raw/
+__pycache__/
+.ipynb_checkpoints/
