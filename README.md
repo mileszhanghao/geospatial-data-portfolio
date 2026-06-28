@@ -14,6 +14,7 @@ The repo is organized as product-style case studies rather than an archive. Proj
 | [Seattle spatial storytelling essay](projects/seattle-spatial-storytelling-essay/) | Narrative urban analytics and data communication | Spatial storytelling |
 | [GeoPandas urban analysis workflows](projects/geopandas-urban-analysis-notebooks/) | Reusable Python geospatial data pipeline patterns | Python, GeoPandas, Shapely |
 | [Seattle crime dashboard workflow](projects/seattle-crime-dashboard/) | Public-safety event analysis and campus-area buffer dashboard | Socrata API, GeoPandas, Folium |
+| [Air quality and census overlay](projects/air-quality-census-overlay/) | Environmental exposure screening with area-weighted overlay | ArcGIS FeatureServer, GeoPandas |
 
 ## Core Skills
 
@@ -28,6 +29,10 @@ The repo is organized as product-style case studies rather than an archive. Proj
 ## Modern Stack Emphasis
 
 Python, pandas, GeoPandas, Shapely, Folium, PostGIS-adjacent spatial thinking, QGIS/ArcGIS Pro, OpenStreetMap, Seattle Open Data, public APIs, raster/vector GIS, and stakeholder-ready reporting.
+
+## Code-Backed Public Workflows
+
+The repo includes cleaned Python pipeline examples that rebuild the strongest GIS ideas from public data URLs. These scripts are written for portfolio review and avoid private course prompts, signed URLs, and notebook scaffolding.
 
 ## Public-Safety Notes
 
