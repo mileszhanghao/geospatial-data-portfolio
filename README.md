@@ -1,19 +1,19 @@
-# Geospatial Data Portfolio
+# Geospatial Urban Analytics Portfolio
 
-Public-facing GIS and spatial data work focused on Seattle urban systems, environmental equity, public-sector datasets, and Python-based geospatial analysis.
+Location-intelligence portfolio focused on Seattle urban systems, environmental risk, public-sector data, and Python-based geospatial analytics.
 
-The repo is organized as a portfolio rather than a class archive. Project pages emphasize tools, methods, results, and reusable analysis patterns. Raw notebook exports that contained prompt scaffolding or workspace UI were intentionally kept out of the public repo.
+The repo is organized as product-style case studies rather than an archive. Project pages emphasize the decision problem, data pipeline, methods, and public-facing result.
 
 ## Project Index
 
-| Project | Tools | Public artifact |
+| Case study | Product / analytics focus | Stack |
 | --- | --- | --- |
-| [Seattle tree canopy equity](projects/seattle-tree-canopy-equity/) | ArcGIS/QGIS workflow, Seattle Open Data, environmental justice overlay | Report PDF |
-| [U-District dining spatial story](projects/udistrict-dining-spatial-story/) | Python, Yelp Fusion API, QGIS, Observable/D3 | Report PDF |
-| [Seattle sea-level-rise residential exposure](projects/seattle-sea-level-rise-exposure/) | ArcGIS Pro, DEM raster thresholding, polygon conversion, spatial intersection | Report PDF |
-| [Seattle spatial storytelling essay](projects/seattle-spatial-storytelling-essay/) | Urban data visualization, narrative cartography, Seattle spatial context | Essay PDF |
-| [GeoPandas urban analysis notebooks](projects/geopandas-urban-analysis-notebooks/) | Python, GeoPandas, pandas, spatial joins, overlays, choropleths | Clean project notes |
-| [Seattle crime dashboard workflow](projects/seattle-crime-dashboard/) | Socrata/SODA API, GeoPandas, Folium, buffers, neighborhood aggregation | Clean project notes |
+| [Seattle tree canopy equity](projects/seattle-tree-canopy-equity/) | Environmental equity and urban heat-risk screening | Seattle Open Data, GIS overlay |
+| [U-District dining spatial story](projects/udistrict-dining-spatial-story/) | Consumer-location clustering and campus retail analysis | Python, Yelp API, QGIS |
+| [Seattle sea-level-rise residential exposure](projects/seattle-sea-level-rise-exposure/) | Climate exposure model for residential planning | ArcGIS Pro, DEM raster, spatial intersection |
+| [Seattle spatial storytelling essay](projects/seattle-spatial-storytelling-essay/) | Narrative urban analytics and data communication | Spatial storytelling |
+| [GeoPandas urban analysis workflows](projects/geopandas-urban-analysis-notebooks/) | Reusable Python geospatial data pipeline patterns | Python, GeoPandas, Shapely |
+| [Seattle crime dashboard workflow](projects/seattle-crime-dashboard/) | Public-safety event analysis and campus-area buffer dashboard | Socrata API, GeoPandas, Folium |
 
 ## Core Skills
 
@@ -25,12 +25,11 @@ The repo is organized as a portfolio rather than a class archive. Project pages 
 - Seattle-focused urban analysis using open civic datasets.
 - Communicating spatial results through reports, maps, and dashboards.
 
-## Tools Used
+## Modern Stack Emphasis
 
-Python, pandas, GeoPandas, Shapely, Folium, Jupyter, QGIS, ArcGIS Pro, ArcGIS Online, Observable, D3 concepts, OpenStreetMap, Seattle Open Data, and public geospatial APIs.
+Python, pandas, GeoPandas, Shapely, Folium, PostGIS-adjacent spatial thinking, QGIS/ArcGIS Pro, OpenStreetMap, Seattle Open Data, public APIs, raster/vector GIS, and stakeholder-ready reporting.
 
 ## Public-Safety Notes
 
 - Included reports were selected because they are self-contained portfolio artifacts.
-- Notebook HTML exports with visible prompts, browser UI, and scaffolded cells were not published.
-- Teaching materials, grading details, private links, and non-public datasets are not included.
+- Raw notebooks, browser UI exports, private links, and non-public datasets are not included.

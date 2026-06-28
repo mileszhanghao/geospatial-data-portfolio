@@ -1,6 +1,6 @@
-# GeoPandas Urban Analysis Notebooks
+# GeoPandas Urban Analysis Workflows
 
-This page summarizes notebook-based GIS analysis work that used Python and GeoPandas. The original HTML notebook exports were kept local because they contained visible prompt scaffolding and Jupyter workspace UI; this page preserves the public-safe project substance.
+This page summarizes Python geospatial workflows built with GeoPandas. Raw notebook exports are kept private; this page preserves the portfolio-safe analysis patterns and technical substance.
 
 ## Workflows Represented
 
@@ -17,6 +17,6 @@ This page summarizes notebook-based GIS analysis work that used Python and GeoPa
 
 Python, pandas, GeoPandas, Shapely, Matplotlib, Jupyter, public GeoJSON, Natural Earth data, MTBS wildfire points, and raster analysis concepts.
 
-## Portfolio Value
+## Product Value
 
-The notebooks demonstrate the core geospatial data science pipeline: ingest data, normalize geometry/CRS, join or overlay layers, aggregate results, visualize patterns, and write a plain-language interpretation.
+These workflows demonstrate a reusable geospatial data science pipeline: ingest data, normalize geometry/CRS, join or overlay layers, aggregate results, visualize patterns, and write a plain-language interpretation.

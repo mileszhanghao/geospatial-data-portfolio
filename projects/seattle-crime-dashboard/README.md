@@ -1,6 +1,6 @@
-# Seattle Crime Dashboard Workflow
+# Seattle Public Safety Dashboard Workflow
 
-This project summarizes a Python workflow for exploring Seattle crime incidents across two short time windows and translating raw public records into spatial dashboard views.
+This project summarizes a Python workflow for exploring Seattle public safety incidents and translating raw public records into spatial dashboard views.
 
 ## Methods
 
@@ -16,6 +16,6 @@ This project summarizes a Python workflow for exploring Seattle crime incidents 
 
 The dashboard workflow showed how incident categories and concentrations can be compared across periods and neighborhoods. A 750 meter campus-adjacent buffer made the analysis more actionable than a citywide aggregate by focusing on high-foot-traffic corridors and nearby commercial areas.
 
-## Portfolio Value
+## Product Value
 
 This work demonstrates public API ingestion, geocoded event cleaning, point-in-polygon analysis, buffer-based spatial filtering, and interactive map communication.

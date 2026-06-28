@@ -1,6 +1,6 @@
-# Seattle Tree Canopy Equity
+# Seattle Tree Canopy Equity Screener
 
-This project analyzes where Seattle experienced tree canopy decline between 2016 and 2021 and whether those losses overlap with environmental justice priority areas.
+This project analyzes where Seattle experienced tree canopy decline between 2016 and 2021 and whether those losses overlap with environmental justice priority areas. It is framed as an environmental equity screening product for urban planning.
 
 ## Methods
 

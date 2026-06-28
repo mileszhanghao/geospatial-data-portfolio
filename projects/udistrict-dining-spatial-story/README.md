@@ -1,6 +1,6 @@
-# U-District Dining Spatial Story
+# U-District Retail Location Analysis
 
-This project investigates Thai food and bubble tea businesses in Seattle's University District using API collection, spatial mapping, and hierarchical visualization.
+This project investigates Thai food and bubble tea businesses in Seattle's University District using API collection, spatial mapping, and hierarchical visualization. It is framed as a small consumer-location intelligence case study.
 
 ## Methods
 
@@ -8,7 +8,7 @@ This project investigates Thai food and bubble tea businesses in Seattle's Unive
 - Cleaned business names, categories, price values, and latitude/longitude fields.
 - Imported the cleaned CSV into QGIS as a WGS84 point layer.
 - Built categorized maps and heatmap-style density views for business clustering.
-- Used Observable/D3-style hierarchical visualization to compare dining categories and price levels.
+- Used hierarchical visualization to compare dining categories and price levels.
 
 ## Result
 
