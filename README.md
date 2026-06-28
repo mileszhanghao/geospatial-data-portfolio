@@ -1,73 +1,36 @@
 # Geospatial Data Portfolio
 
-A portfolio of geospatial data analysis work across Python, GeoPandas, QGIS, ArcGIS Online, raster/vector analysis, and urban/public-sector data visualization.
+Public-facing GIS and spatial data work focused on Seattle urban systems, environmental equity, public-sector datasets, and Python-based geospatial analysis.
 
-## Focus Areas
+The repo is organized as a portfolio rather than a class archive. Project pages emphasize tools, methods, results, and reusable analysis patterns. Raw notebook exports that contained prompt scaffolding or workspace UI were intentionally kept out of the public repo.
 
-- Geospatial data wrangling in Python and Jupyter.
-- Vector overlays and choropleth mapping.
-- Raster data workflows and NDVI analysis.
-- Bike-share and transportation analysis.
-- Crime dashboard and public safety spatial analysis.
-- ArcGIS Online classification and geodatabase topology rules.
-- Seattle-focused data collection, visualization, and storytelling.
+## Project Index
 
-## Tools
+| Project | Tools | Public artifact |
+| --- | --- | --- |
+| [Seattle tree canopy equity](projects/seattle-tree-canopy-equity/) | ArcGIS/QGIS workflow, Seattle Open Data, environmental justice overlay | Report PDF |
+| [U-District dining spatial story](projects/udistrict-dining-spatial-story/) | Python, Yelp Fusion API, QGIS, Observable/D3 | Report PDF |
+| [Seattle sea-level-rise residential exposure](projects/seattle-sea-level-rise-exposure/) | ArcGIS Pro, DEM raster thresholding, polygon conversion, spatial intersection | Report PDF |
+| [Seattle spatial storytelling essay](projects/seattle-spatial-storytelling-essay/) | Urban data visualization, narrative cartography, Seattle spatial context | Essay PDF |
+| [GeoPandas urban analysis notebooks](projects/geopandas-urban-analysis-notebooks/) | Python, GeoPandas, pandas, spatial joins, overlays, choropleths | Clean project notes |
+| [Seattle crime dashboard workflow](projects/seattle-crime-dashboard/) | Socrata/SODA API, GeoPandas, Folium, buffers, neighborhood aggregation | Clean project notes |
 
-- Python
-- Jupyter
-- GeoPandas
-- pandas
-- QGIS
-- ArcGIS Online
-- Raster/vector GIS workflows
-- Observable
-- Tableau / Vega-Lite concepts
+## Core Skills
 
-## Coursework Evidence
+- Spatial data cleaning and coordinate reference system handling.
+- Vector overlay, spatial join, dissolve, and buffer workflows.
+- Raster thresholding and terrain-change interpretation.
+- Choropleth mapping, classification, and thematic cartography.
+- Public API ingestion with Python and geospatial dataframes.
+- Seattle-focused urban analysis using open civic datasets.
+- Communicating spatial results through reports, maps, and dashboards.
 
-This portfolio draws from several University of Washington geography and GIS courses:
+## Tools Used
 
-- GEOG 482: GIS Data Management
-  - Jupyter and Python basics
-  - GeoPandas practice
-  - Working with geospatial data
-  - World choropleth maps
-  - Overlay practice
-  - Raster data
-  - NDVI
-  - Bike-share data analysis
-  - Crime dashboard
+Python, pandas, GeoPandas, Shapely, Folium, Jupyter, QGIS, ArcGIS Pro, ArcGIS Online, Observable, D3 concepts, OpenStreetMap, Seattle Open Data, and public geospatial APIs.
 
-- GEOG 317: Geographic Information and Spatial Analysis
-  - Final project
-  - ArcGIS geodatabase topology rules
-  - ArcGIS Online classification
-  - Voting/election data
-  - Crime hot spots
-  - COVID mortality and socioeconomic indicators
-  - Transportation wait times and socioeconomic indicators
+## Public-Safety Notes
 
-- GEOG 360: GIS and Mapping
-  - QGIS mapping
-  - Mapping US population
-  - Mapping SNAP benefit use in Washington State
-  - Cartographic abstraction and visual hierarchy
-
-- GEOG 450: Visualizing Seattle
-  - Python and pandas basics
-  - Responsible web scraping
-  - Data collection and context
-  - Observable-based visualization
-  - Seattle neighborhood infographic and project essay
-
-## Planned Additions
-
-The next revision should add cleaned versions of original submitted work:
-
-- Jupyter notebooks or scripts from geospatial analysis labs.
-- Exported maps or screenshots.
-- Short project reports with data source, method, and result.
-- A small `docs/` gallery for visual outputs.
-
-Course prompts, answer keys, instructor slides, and non-public datasets should not be included.
+- Included reports were selected because they are self-contained portfolio artifacts.
+- Notebook HTML exports with visible prompts, browser UI, and scaffolded cells were not published.
+- Teaching materials, grading details, private links, and non-public datasets are not included.
