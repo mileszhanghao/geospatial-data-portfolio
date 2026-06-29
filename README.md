@@ -10,6 +10,7 @@ The repo is organized as product-style case studies rather than an archive. Proj
 | --- | --- | --- |
 | [Seattle tree canopy equity](projects/seattle-tree-canopy-equity/) | Environmental equity and urban heat-risk screening | Seattle Open Data, GIS overlay |
 | [U-District dining spatial story](projects/udistrict-dining-spatial-story/) | Consumer-location clustering and campus retail analysis | Python, Yelp API, QGIS |
+| [US national parks spatial analysis](projects/us-national-parks-spatial-analysis/) | Accessibility, proximity, and state-level conservation coverage | ArcGIS Pro, buffers, Summarize Within, choropleth mapping |
 | [Seattle sea-level-rise residential exposure](projects/seattle-sea-level-rise-exposure/) | Climate exposure model for residential planning | ArcGIS Pro, DEM raster, spatial intersection |
 | [Seattle spatial storytelling essay](projects/seattle-spatial-storytelling-essay/) | Narrative urban analytics and data communication | Spatial storytelling |
 | [GeoPandas urban analysis workflows](projects/geopandas-urban-analysis-notebooks/) | Reusable Python geospatial data pipeline patterns | Python, GeoPandas, Shapely |
